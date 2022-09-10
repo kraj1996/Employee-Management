@@ -1,0 +1,46 @@
+form{
+    padding: 10px;
+    box-shadow: 0px 0px 20px #4c4f4c;
+    width: 30%;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: 1px solid green;
+  }
+  
+  .form-control{
+    width: 100%;
+    background-color: hotpink;
+  }
+  
+  .nav li a{
+    text-decoration: none;
+    transition: 0.4s;
+   }
+  
+  .nav li a:hover{
+    background-color: rgb(91, 47, 251);
+    padding: 10px;
+    border-radius: 10px;
+  }
+  .mt-3{
+    text-align: center;
+
+  }
+  label{
+    font-weight: bold;
+    color:#4c4f4c;
+  }
+ thead{
+    background-color: #ff00ee;
+ }
+ table{
+    background-color: #bfb8af;
+ }
+ td{
+    color: maroon;
+ }
+.h1{
+    text-shadow: #4c4f4c;
+    color: aqua;
+}
